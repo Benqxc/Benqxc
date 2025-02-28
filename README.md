@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-  <img height="150" src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR4M29mcm9yYnI0ZWFmN2ZoNnE2cmFlemo2MXRmMWpzb2Q1N2Y3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eBN6oifiv4k5G/giphy.gif)" alt="Coding"/>
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk0MWpsYTdkazY2dDNqajZncGF4ZmdzZ3lwbGFxc3RneXZseG8zNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buh8WbaZLupolXi/giphy.gif" alt="Coding"/>
   <br/>
   <sub>«Лучший способ предсказать будущее — создать его» — Абрахам Линкольн</sub>
 </div>
