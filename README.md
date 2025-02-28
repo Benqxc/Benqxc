@@ -46,10 +46,7 @@
   <a href="https://git.io/streak-stats">
     <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=benqxc&theme=aura&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benqxc&layout=compact&theme=aura&hide_border=true"/>
-  </a>
-</div>
+
 
 ---
 
