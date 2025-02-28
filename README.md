@@ -18,6 +18,12 @@
 | JavaScript   | ![JavaScript](https://img.shields.io/badge/JavaScript-Junior-lightblue) |
 | Python       | ![Python](https://img.shields.io/badge/Python-Junior-lightblue) |
 
+## 🛠️ Технологии и инструменты
+
+- **Базы данных**: MySQL, PostgreSQL
+- **Фреймворки**: Spring, React, Flask
+- **Инструменты**: Git, Docker, VS Code
+
 ## 📫 Связаться со мной
 
 - [Discord](https://discordapp.com/users/642377537598521344)
