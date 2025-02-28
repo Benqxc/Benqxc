@@ -61,4 +61,4 @@
 ---
 
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR4M29mcm9yYnI
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR4M
