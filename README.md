@@ -1,71 +1,48 @@
-# Привет, добро пожаловать на мой профиль! 👋
+# Привет, добро пожаловать на мой профиль)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=38BDF8&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JS+%7C+PHP;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JS+%7C+PHP;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
-### 🛠️ Технологический арсенал
-
-#### 🌐 Языки программирования
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</div>
-
-#### 🗃️ Базы данных
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</div>
-
-#### 🧰 Фреймворки и инструменты
-<div align="left">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</div>
+### 💻 Языки программирования
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
 
-### 📊 Прогресс и статистика
-
-#### Уровень владения
-| Язык        | Уровень          |
-|-------------|------------------|
-| Java        | ⭐⭐⭐⭐⚫ 80%   |
-| JavaScript  | ⭐⭐⚫⚫⚫ 40%  |
-| Python      | ⭐⭐⚫⚫⚫ 35%  |
-| PHP         | ⭐⭐⚫⚫⚫ 40%  |
-
-#### Активность
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=benqxc&theme=aura&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benqxc&layout=compact&theme=aura&hide_border=true"/>
-  </a>
-</div>
+### 📊 Уровень владения
+| Язык         | Уровень       |
+|--------------|---------------|
+| Java         | ![Middle](https://img.shields.io/badge/-Middle-orange) |
+| JavaScript   | ![Junior](https://img.shields.io/badge/-Junior-lightgrey) |
+| Python       | ![Junior](https://img.shields.io/badge/-Junior-lightgrey) |
+| PHP          | ![Junior](https://img.shields.io/badge/-Junior-lightgrey) |
 
 ---
 
-### 📬 Как со мной связаться
+### ⚙️ Технологический стек
+#### 🗄️ Базы данных
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<div align="center">
-  <a href="https://t.me/benqxc" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/642377537598521344" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:0benqxc0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+#### 🛠️ Инструменты
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📈 Моя активность
+[![GitHub Streak](https://streak-stats.demolab.com?user=benqxc&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+
+---
+
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/-Benqxc-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/benqxc)
+[![Discord](https://img.shields.io/badge/-Benqxc%235432-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/642377537598521344)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0benqxc0@gmail.com)
 
 ---
 
