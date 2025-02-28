@@ -25,6 +25,7 @@
 ## 📫 Связаться со мной
 
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/642377537598521344)
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/benqxc)
 
 ---
 
