@@ -39,8 +39,8 @@
     <tr><th>Язык</th><th>Уровень</th></tr>
     <tr><td>Java</td><td>⭐⭐⭐⭐⚫ 80%</td></tr>
     <tr><td>JavaScript</td><td>⭐⭐⚫⚫⚫ 40%</td></tr>
-    <tr><td>Python</td><td>⭐⭐⚫⚫⚫ 35%</td></tr>
     <tr><td>PHP</td><td>⭐⭐⚫⚫⚫ 40%</td></tr>
+    <tr><td>Python</td><td>⭐⭐⚫⚫⚫ 35%</td></tr>
   </table>
 </div>
 
