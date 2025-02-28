@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=35&duration=4000&pause=1000&color=38BDF8&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JS+%7C+PHP;Open+Source+Enthusiast" alt="Typing SVG"/>
+div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=38BDF8&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JS+%7C+PHP;Open+Source+Enthusiast" alt="Typing SVG"/>
 </div>
-
 ---
 
 <h3 align="center">🛠️ Технологический арсенал</h3>
