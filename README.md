@@ -2,9 +2,9 @@
 
 Я программист, который знает:
 
-- **Java**
-- **JavaScript**
-- **Python**
+- ![Java](https://img.shields.io/badge/Java-Middle-orange?style=flat-square&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Junior-lightblue?style=flat-square&logo=javascript&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-Junior-lightblue?style=flat-square&logo=python&logoColor=white)
 
 ## 🌟 О себе
 
@@ -14,9 +14,9 @@
 
 | Язык         | Уровень      |
 |--------------|--------------|
-| Java         | ![Java](https://img.shields.io/badge/Java-Middle-orange) |
-| JavaScript   | ![JavaScript](https://img.shields.io/badge/JavaScript-Junior-lightblue) |
-| Python       | ![Python](https://img.shields.io/badge/Python-Junior-lightblue) |
+| ![Java](https://img.shields.io/badge/Java-Middle-orange?style=flat-square&logo=java&logoColor=white) | ![Java](https://img.shields.io/badge/Java-Middle-orange) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Junior-lightblue?style=flat-square&logo=javascript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-Junior-lightblue) |
+| ![Python](https://img.shields.io/badge/Python-Junior-lightblue?style=flat-square&logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-Junior-lightblue) |
 
 ## 🛠️ Технологии и инструменты
 
