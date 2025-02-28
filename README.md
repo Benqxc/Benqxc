@@ -9,7 +9,7 @@
 ### 🛠️ Технологический арсенал
 
 #### 🌐 Языки программирования
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -17,13 +17,13 @@
 </div>
 
 #### 🗃️ Базы данных
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
 #### 🧰 Фреймворки и инструменты
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -33,6 +33,8 @@
 
 ### 📊 Прогресс и статистика
 
+<div align="center">
+
 #### Уровень владения
 | Язык        | Уровень          |
 |-------------|------------------|
@@ -41,12 +43,14 @@
 | Python      | ⭐⭐⚫⚫⚫ 35%  |
 | PHP         | ⭐⭐⚫⚫⚫ 40%  |
 
+</div>
+
 #### Активность
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=benqxc&theme=aura&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
+    <img width="90%" src="http://github-readme-streak-stats.herokuapp.com?user=benqxc&theme=aura&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
   </a>
-
+</div>
 
 ---
 
