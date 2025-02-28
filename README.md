@@ -1,7 +1,6 @@
-<div align="center" style="position: relative;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=4000&pause=1000&color=38BDF8&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JS+%7C+PHP;Open+Source+Enthusiast" 
-       alt="Typing SVG" 
-       style="transform: translateX(15px)">
+<div align="center" style="padding-left: 20px">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=38BDF8&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JS+%7C+PHP;Open+Source+Enthusiast" 
+       style="transform: translateX(2%)">
 </div>
 
 ---
