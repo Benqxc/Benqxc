@@ -44,11 +44,6 @@
   </table>
 </div>
 
-<div align="center">
-  <h4>Активность</h4>
-  <img width="90%" src="http://github-readme-streak-stats.herokuapp.com?user=benqxc&theme=aura&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
-</div>
-
 ---
 
 <h3 align="center">📬 Как со мной связаться</h3>
