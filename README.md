@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привет, я Benqxc! 👋
 
-<!--
-**Benqxc/Benqxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я программист, который знает:
 
-Here are some ideas to get you started:
+- **Java**
+- **JavaScript**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 О себе
+
+Я люблю разрабатывать приложения и изучать новые технологии. В свободное время я занимаюсь проектами с открытым исходным кодом и обучаюсь новым языкам программирования.
+
+## 📈 Мои навыки
+
+| Язык         | Уровень      |
+|--------------|--------------|
+| Java         | ![Java](https://img.shields.io/badge/Java-Expert-brightgreen) |
+| JavaScript   | ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow) |
+| Python       | ![Python](https://img.shields.io/badge/Python-Intermediate-yellow) |
+
+## 📫 Связаться со мной
+
+- [Discord]((https://discordapp.com/users/642377537598521344))
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benqxc&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benqxc&layout=compact&theme=radical) 
