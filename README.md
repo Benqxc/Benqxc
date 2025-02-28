@@ -1,4 +1,4 @@
-# Привет, я Benqxc! 👨💻
+# Привет, добро пожаловать на мой профиль)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JS+%7C+PHP;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -33,4 +33,4 @@
 
 ---
 
-![Code Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJvY3d1d2Z0c2JhYjNnbmJxM2x4M2Y5c3Q2ZzB0aHF2Y2l5cHZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
+![Code Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR4M29mcm9yYnI0ZWFmN2ZoNnE2cmFlemo2MXRmMWpzb2Q1N2Y3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eBN6oifiv4k5G/giphy.gif)
