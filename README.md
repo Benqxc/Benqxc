@@ -42,8 +42,8 @@
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Benqxc-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/benqxc)
 [![Discord](https://img.shields.io/badge/-Benqxc%235432-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/642377537598521344)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.real.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0benqxc0@gmail.com)
 
 ---
 
-![Code](https://media0.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif)
+![Code]([https://media0.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR4M29mcm9yYnI0ZWFmN2ZoNnE2cmFlemo2MXRmMWpzb2Q1N2Y3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eBN6oifiv4k5G/giphy.gif))
