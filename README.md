@@ -35,10 +35,10 @@
   <h4>Уровень владения</h4>
   <table style="margin: 0 auto;">
     <tr><th>Язык</th><th>Уровень</th></tr>
-    <tr><td>Java</td><td>⭐⭐⭐⭐⚫ 80%</td></tr>
-    <tr><td>JavaScript</td><td>⭐⭐⚫⚫⚫ 40%</td></tr>
-    <tr><td>PHP</td><td>⭐⭐⚫⚫⚫ 40%</td></tr>
-    <tr><td>Python</td><td>⭐⭐⚫⚫⚫ 35%</td></tr>
+    <tr><td>Java</td><td>⚪⚪⚪⚪⚫ 80%</td></tr>
+    <tr><td>JavaScript</td><td>⚪⚪⚫⚫⚫ 40%</td></tr>
+    <tr><td>PHP</td><td>⚪⚪⚫⚫⚫ 40%</td></tr>
+    <tr><td>Python</td><td>⚪⚫⚫⚫⚫ 20%</td></tr>
   </table>
 </div>
 
@@ -61,4 +61,4 @@
 ---
 
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR4M
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR4M...
