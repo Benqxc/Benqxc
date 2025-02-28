@@ -14,13 +14,13 @@
 
 | Язык         | Уровень      |
 |--------------|--------------|
-| Java         | ![Java](https://img.shields.io/badge/Java-Expert-brightgreen) |
-| JavaScript   | ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow) |
-| Python       | ![Python](https://img.shields.io/badge/Python-Intermediate-yellow) |
+| Java         | ![Java](https://img.shields.io/badge/Java-Middle-orange) |
+| JavaScript   | ![JavaScript](https://img.shields.io/badge/JavaScript-Junior-lightblue) |
+| Python       | ![Python](https://img.shields.io/badge/Python-Junior-lightblue) |
 
 ## 📫 Связаться со мной
 
-- [Discord]((https://discordapp.com/users/642377537598521344))
+- [Discord](https://discordapp.com/users/642377537598521344)
 
 ---
 
