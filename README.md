@@ -1,14 +1,14 @@
 # Привет, добро пожаловать на мой профиль! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=38BDF8&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JS+%7C+PHP;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=38BDF8&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JS+%7C+PHP;Open+Source+Enthusiast" alt="Typing SVG"/>
 </div>
 
 ---
 
-### 🛠️ Технологический арсенал
+<h3 align="center">🛠️ Технологический арсенал</h3>
 
-#### 🌐 Языки программирования
+<h4 align="center">🌐 Языки программирования</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </div>
 
-#### 🗃️ Базы данных
+<h4 align="center">🗃️ Базы данных</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
-#### 🧰 Фреймворки и инструменты
+<h4 align="center">🧰 Фреймворки и инструменты</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -31,29 +31,27 @@
 
 ---
 
-### 📊 Прогресс и статистика
+<h3 align="center">📊 Прогресс и статистика</h3>
 
 <div align="center">
-
-#### Уровень владения
-| Язык        | Уровень          |
-|-------------|------------------|
-| Java        | ⭐⭐⭐⭐⚫ 80%  |
-| JavaScript  | ⭐⭐⚫⚫⚫ 40%  |
-| PHP         | ⭐⭐⚫⚫⚫ 40%  |
-| Python      | ⭐⭐⚫⚫⚫ 35%  |
+  <h4>Уровень владения</h4>
+  <table style="margin: 0 auto;">
+    <tr><th>Язык</th><th>Уровень</th></tr>
+    <tr><td>Java</td><td>⭐⭐⭐⭐⚫ 80%</td></tr>
+    <tr><td>JavaScript</td><td>⭐⭐⚫⚫⚫ 40%</td></tr>
+    <tr><td>Python</td><td>⭐⭐⚫⚫⚫ 35%</td></tr>
+    <tr><td>PHP</td><td>⭐⭐⚫⚫⚫ 40%</td></tr>
+  </table>
 </div>
 
-#### Активность
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="90%" src="http://github-readme-streak-stats.herokuapp.com?user=benqxc&theme=aura&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
-  </a>
+  <h4>Активность</h4>
+  <img width="90%" src="http://github-readme-streak-stats.herokuapp.com?user=benqxc&theme=aura&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 ---
 
-### 📬 Как со мной связаться
+<h3 align="center">📬 Как со мной связаться</h3>
 
 <div align="center">
   <a href="https://t.me/benqxc" target="_blank">
