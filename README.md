@@ -14,34 +14,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </div>
 
-<h4 align="center">🗃️ Базы данных</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</div>
-
-<h4 align="center">🧰 Фреймворки и инструменты</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</div>
-
----
-
-<h3 align="center">📊 Прогресс и статистика</h3>
-
-<div align="center">
-  <h4>Уровень владения</h4>
-  <table style="margin: 0 auto;">
-    <tr><th>Язык</th><th>Уровень</th></tr>
-    <tr><td>Java</td><td>⚪⚪⚫⚫⚫ 20%</td></tr>
-    <tr><td>JavaScript</td><td>⚪⚪⚫⚫⚫ 20%</td></tr>
-    <tr><td>PHP</td><td>⚪⚪⚫⚫⚫ 40%</td></tr>
-    <tr><td>Python</td><td>⚪⚪⚫⚫⚫ 35%</td></tr>
-  </table>
-</div>
-
 ---
 
 <div align="center">
