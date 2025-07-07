@@ -3,9 +3,7 @@
 </div>
 
 ---
-
-<h3 align="center">🛠️ Технологический арсенал</h3>
-
+=
 <h4 align="center">🌐 Языки программирования</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
