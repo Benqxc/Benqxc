@@ -8,7 +8,11 @@
 
 Привет! Я Full Stack разработчик, увлечённый созданием эффективных и качественных решений. Работаю с Java, Python, JavaScript и PHP, постоянно изучаю новые технологии и активно участвую в open source проектах.
 
-![Guts from Berserk](https://media1.tenor.com/m/rq-n48NBHEkAAAAd/berserk-guts.gif)
+<div align="center">
+  <img width="150" src="https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs/sakura.gif" alt="Sakura">
+  <img src="https://media1.tenor.com/m/rq-n48NBHEkAAAAd/berserk-guts.gif" alt="Guts from Berserk">
+  <img width="150" src="https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs/sakura.gif" alt="Sakura">
+</div>
 
 ---
 
@@ -20,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benqxc&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Benqxc&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
