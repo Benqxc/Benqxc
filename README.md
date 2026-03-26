@@ -35,6 +35,9 @@
   </table>
   
   <img src="https://media1.tenor.com/m/rq-N48NBHEkAAAAd/berserk-guts.gif" alt="Guts из аниме Berserk" width="400">
+</div>
+
+<div align="center">
   <img src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif" alt="Аниме GIF" width="400">
 </div>
 
@@ -44,11 +47,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benqxc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=79C0FF "Моя статистика GitHub: количество коммитов, звёзд, форков")
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benqxc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true "Моя статистика GitHub: количество коммитов, звёзд, форков")
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benqxc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=79C0FF "Топ языков программирования, которые я использую")
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benqxc&layout=compact&langs_count=8&theme=tokyonight "Топ языков программирования, которые я использую")
 
-![Streak Stats](https://streak-stats.demolab.com?user=Benqxc&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=79C0FF&sideLabel=79C0FF&sideNum=79C0FF "Серия дней подряд с активностью на GitHub")
+![Streak Stats](https://streak-stats.demolab.com?user=Benqxc&theme=tokyonight "Серия дней подряд с активностью на GitHub")
 
 </div>
 
@@ -104,7 +107,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Benqxc&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15 "Мои трофеи GitHub за достижения")
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Benqxc&theme=tokyonight&no-frame=true "Мои трофеи GitHub за достижения")
 
 </div>
 
