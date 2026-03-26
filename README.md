@@ -98,12 +98,6 @@
 
 ---
 
-### 🎵 Сейчас играет
-
-![Music Widget](https://spotify-readme-profile.vercel.app/api/spotify)
-
----
-
 <img src="https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs/sakura_falling.gif" width="100%" alt="Falling Sakura">
 
 **Спасибо за визит!** 🌸
