@@ -115,7 +115,10 @@
 
 <div align="center">
 
-![Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg "Анимация змейки, поедающей ваши контрибуции")
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Benqxc/Benqxc/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Benqxc/Benqxc/output/github-contribution-grid-snake.svg" alt="Анимация змейки, поедающей мои контрибуции" title="Анимация змейки, поедающей мои контрибуции">
+</picture>
 
 ---
 
