@@ -39,6 +39,15 @@ npx skills add Benqxc/shannon-skill -g -y
 
 ---
 
+## Other projects
+
+| Project | Description |
+|---------|-------------|
+| [**Discord-Admin-Bot**](https://github.com/Benqxc/Discord-Admin-Bot) | Discord moderation bot — slash commands, tickets, leveling, anti-spam |
+| [**Web**](https://github.com/Benqxc/Web) | Personal bio site with visitor analytics, admin dashboard, PWA |
+
+---
+
 ## GitHub stats
 
 <div align="center">
