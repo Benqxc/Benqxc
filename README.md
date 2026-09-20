@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=160&section=header&text=_ud2&fontSize=72&fontColor=eaeaea&fontAlignY=48&color=0:0a0000,50:5c0000,100:0a0000&stroke=8B0000" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&section=header&text=_ud2&fontSize=72&fontColor=eaeaea&fontAlignY=48&color=0:0a0000,50:5c0000,100:0a0000&stroke=8B0000" alt="_ud2 header" />
 
 <br>
 
-<img src="https://img.shields.io/badge/security-1a0000?style=for-the-badge&labelColor=8B0000&color=2b0a0a" alt="" />
-<img src="https://img.shields.io/badge/agents-1a0000?style=for-the-badge&labelColor=8B0000&color=2b0a0a" alt="" />
-<img src="https://img.shields.io/badge/automation-1a0000?style=for-the-badge&labelColor=8B0000&color=2b0a0a" alt="" />
-<img src="https://img.shields.io/badge/tools-1a0000?style=for-the-badge&labelColor=8B0000&color=2b0a0a" alt="" />
+<img src="https://img.shields.io/badge/security-1a0000?style=for-the-badge&labelColor=8B0000&color=2b0a0a" alt="security" />
+<img src="https://img.shields.io/badge/agents-1a0000?style=for-the-badge&labelColor=8B0000&color=2b0a0a" alt="agents" />
+<img src="https://img.shields.io/badge/automation-1a0000?style=for-the-badge&labelColor=8B0000&color=2b0a0a" alt="automation" />
+<img src="https://img.shields.io/badge/tools-1a0000?style=for-the-badge&labelColor=8B0000&color=2b0a0a" alt="tools" />
 
 <br><br>
 
@@ -100,7 +100,7 @@
 </tr>
 <tr>
 <td align="center">🧮</td>
-<td align="left"><a href="https://github.com/Benqxc/calc"><b>calc</b></a></td>
+<td align="left"><a href="https://github.com/Benqxc/Calc"><b>calc</b></a></td>
 <td align="center"><code>html</code></td>
 <td align="left">glassmorphism calculator</td>
 </tr>
@@ -144,7 +144,7 @@ npx skills add Benqxc/shannon-skill -g -y
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Benqxc&color=8B0000&style=flat&label=views" alt="" />
+<img src="https://komarev.com/ghpvc/?username=Benqxc&color=8B0000&style=flat&label=views" alt="profile views" />
 
 <br>
 
